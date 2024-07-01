@@ -1,6 +1,6 @@
 # Flappy Bird Game
 
-This Flappy Bird game was developed using OpenGL, GLFW, and GLAD libraries in 1 hour and 10 minutes.
+This Flappy Bird game was developed using OpenGL, GLFW, GLM, and GLAD in 1 hour and 10 minutes.
 
 ## Overview
 
@@ -11,7 +11,6 @@ This project is a simple implementation of the classic Flappy Bird game using mo
 - Implemented using modern OpenGL with GLFW and GLAD.
 - Basic 2D rendering of the game scene.
 - Simple game mechanics similar to the original Flappy Bird.
-- Designed to run on desktop platforms.
 
 ## Development Time
 
